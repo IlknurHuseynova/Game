@@ -1,6 +1,6 @@
 package mygame;
 public class game{
-    public static int a = 1;
+    public static int b = 1;
     public game(int a){
         game.a = a;
     }
